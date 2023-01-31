@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/...Android Proj backup- 1-31-2023/XiaomiCalculator1/xiaomiCalculator/app/src/main/res/drawable/ic_backspace_24.xml" value="0.256" />
+        <entry key="..\:/...Android Proj backup- 1-31-2023/XiaomiCalculator1/xiaomiCalculator/app/src/main/res/layout/activity_main.xml" value="0.16701388888888888" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/XiaomiCalculator1/app/src/main/res/drawable/ic_backspace_24.xml" value="0.1985" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/XiaomiCalculator1/app/src/main/res/drawable/shape_circle.xml" value="0.1985" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/XiaomiCalculator1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/XiaomiCalculator1/app/src/main/res/layout/item_autocomplite.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
